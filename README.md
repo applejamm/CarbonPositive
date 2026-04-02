@@ -1,4 +1,4 @@
-# Carbon-Based Labor Neutrality (CLN)
+# CarbonPositive (C+)
 
 **A “new carbon neutrality”: balancing the displacement and renewal of human labor value**
 
@@ -11,15 +11,15 @@
 
 Every wave of human–machine collaboration repeats the same story: machines absorb drudgery; humans gain freedom. Too often the ledger does not close — those who remain are busier and more anxious, while those displaced lack a visible path forward.
 
-CLN is a **discussable accountability lens**: it asks not only what technology produces, but what it **owes and repays** to displaced workers and to society.
+CarbonPositive (C+) is a **discussable accountability lens**: it asks not only what technology produces, but what it **owes and repays** to displaced workers and to society.
 
 ---
 
-## What is CLN?
+## What is CarbonPositive (C+)?
 
-**Carbon-Based Labor Neutrality** applies the balancing logic of “carbon neutrality” to **human labor and social opportunity** in the age of AI and automation.
+**CarbonPositive (C+)** applies the balancing logic of “carbon neutrality” to **human labor and social opportunity** in the age of AI and automation.
 
-- Climate neutrality balances material carbon flows; **CLN balances “technological liability” and “technological asset”** — how many old opportunities were removed, and whether they were traded for a more livable carbon‑based future.
+- Climate neutrality balances material carbon flows; **C+ balances “technological liability” and “technological asset”** — how many old opportunities were removed, and whether they were traded for a more livable carbon‑based future.
 - This is **not** anti‑technology. It is an **optional criterion** for civilization and organizations: whether progress expands human opportunity and dignity, not only throughput.
 
 **Full statement:** [MANIFESTO](MANIFESTO.md) (manifesto form for alignment and outreach)
@@ -54,7 +54,7 @@ Aligned with the manifesto: **we value the left more; the right still matters, b
 Let *n* = human roles/opportunities reduced or severely squeezed by a technology  
 Let *m* = **new, attributable** human opportunities created by that same technology  
 
-**Opportunity‑level CLN is approached when:**
+**Opportunity‑level C+ is approached when:**
 
 $$\frac{m}{n} > 1$$
 
@@ -66,7 +66,7 @@ This is an anchor for discussion, not the only metric; pair it with bio‑premiu
 
 ### 1. Energy density conversion
 
-CLN tracks **entropy in labor**: whether the mix shifts net‑positive from repetitive, draining work toward creative, high‑value work.
+C+ tracks **entropy in labor**: whether the mix shifts net‑positive from repetitive, draining work toward creative, high‑value work.
 
 ### 2. Labor multiplier (LM)
 
@@ -74,13 +74,13 @@ The *m*/*n* intuition: **LM < 1** trends toward carbon labor debt; **LM > 1** tr
 
 ### 3. Bio‑premium
 
-If everyone left behind is merely busier and more worried, CLN is not met. **Net upgrade in lived experience and dignity** is a hard requirement, not a decorative narrative.
+If everyone left behind is merely busier and more worried, C+ is not met. **Net upgrade in lived experience and dignity** is a hard requirement, not a decorative narrative.
 
 ---
 
 ## Examples
 
-| Sector | Carbon labor debt | Carbon labor surplus (CLN) |
+| Sector | Carbon labor debt | Carbon labor surplus (C+) |
 | --- | --- | --- |
 | **Agriculture** | Automation displaces farmers with no transition path | Heavy work to machines; humans move to ecology and brand stewardship at greater scale |
 | **Education** | AI instruction squeezes teachers without role redesign | AI handles knowledge transfer; teachers deepen human and emotional guidance with multiplied reach |
@@ -90,7 +90,7 @@ If everyone left behind is merely busier and more worried, CLN is not met. **Net
 
 ## Why this matters now
 
-Debates on AI and jobs often swing between **blind optimism** and **doom**. CLN is a third path: a **discussable, iterable standard** for societies, firms, and policy to test whether “progress” lands on people.
+Debates on AI and jobs often swing between **blind optimism** and **doom**. CarbonPositive (C+) is a third path: a **discussable, iterable standard** for societies, firms, and policy to test whether “progress” lands on people.
 
 **The civilizational question:** Does technology give humanity **more paths and more livable lives** — not merely more machines?
 
@@ -101,8 +101,8 @@ Debates on AI and jobs often swing between **blind optimism** and **doom**. CLN 
 Open framework — welcome:
 
 - **Data and research:** displacement, job creation, sector tracking
-- **Translation and outreach:** bring CLN to more languages and communities
-- **Cases:** real deployments that are CLN‑positive or CLN‑negative
+- **Translation and outreach:** bring CarbonPositive (C+) to more languages and communities
+- **Cases:** real deployments that are C+‑aligned or fall short of C+
 - **Critique:** stress‑test the frame and surface gaps
 
 Open an issue, start a discussion, fork this repo.
@@ -115,4 +115,4 @@ Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share,
 
 ---
 
-*CLN is a framework, not a party. The aim is a civilization where silicon serves carbon — not the other way around.*
+*CarbonPositive (C+) is a framework, not a party. The aim is a civilization where silicon serves carbon — not the other way around.*
